@@ -1,1 +1,1 @@
-tasklist | findstr -i "lsass"
+tasklist | findstr -i 'lsass'
